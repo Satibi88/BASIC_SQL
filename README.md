@@ -1,2 +1,2 @@
 # BASIC_SQL
-Padaa reppsitory ini berisi tentang code/query basic dari SQL
+Pada repository ini berisi tentang code/query basic dari SQL
